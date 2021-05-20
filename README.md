@@ -19,6 +19,7 @@ In my spare time, you could find me on GitHub trying to learn new technical skil
     
   </em> 
 </p>
+<br>
 
  <p align="left">
 - 🔭 I’m currently working on: Web Chat using NodeJs, Express.js, WebRTC, and Socket.io
@@ -26,10 +27,12 @@ In my spare time, you could find me on GitHub trying to learn new technical skil
 - 👯 I’m always down to collaborate with anyone
 - 📫 How to reach me: Shoot me an email at ahmedwal@my.yorku.ca
 </p>
+<br>
 
 <hr>
+<br>
  <p align="center">
-<i><b>GitHub Stats</b></i>
+<i><b>GitHub Stats</b></i><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedwab&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" />
 </p>
 
