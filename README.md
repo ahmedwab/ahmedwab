@@ -16,14 +16,23 @@ Luckily, I have developed particular skills to drop those little creatures and I
 
 In my spare time, you could find me on GitHub trying to learn new technical skills, working on new open source projects, or just browsing the internet of upcoming projects. My skills include that of Back End Development with OOP Principles, Software Design, and web development using new technologies.
 
-If you want to know more about me, shoot me a message or reach out to me at ahmedwal@my.yorku.ca.
     
   </em> 
 </p>
 
+ <p align="left">
+- 🔭 I’m currently working on: Web Chat using NodeJs, Express.js, WebRTC, and Socket.io
+- 🌱 I’m currently learning OpenCV, Angular.js and React.js, and SwiftUI
+- 👯 I’m always down to collaborate with anyone
+- 📫 How to reach me: Shoot me an email at ahmedwal@my.yorku.ca
+</p>
+
+<hr>
  <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedwab&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+<i><b>GitHub Stats</b></i>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedwab&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" />
+</p>
+
 
 
 <!--
