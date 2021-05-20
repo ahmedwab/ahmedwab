@@ -21,12 +21,12 @@ In my spare time, you could find me on GitHub trying to learn new technical skil
 </p>
 <br>
 
- <p align="left">
-- 🔭 I’m currently working on: Web Chat using NodeJs, Express.js, WebRTC, and Socket.io
-- 🌱 I’m currently learning OpenCV, Angular.js and React.js, and SwiftUI
-- 👯 I’m always down to collaborate with anyone
-- 📫 How to reach me: Shoot me an email at ahmedwal@my.yorku.ca
-</p>
+ <ul align="left">
+  <li> 🔭 I’m currently working on: Web Chat using NodeJs, Express.js, WebRTC, and Socket.io
+   <li> 🌱 I’m currently learning OpenCV, Angular.js and React.js, and SwiftUI
+   <li> 👯 I’m always down to collaborate with anyone
+   <li> 📫 How to reach me: Shoot me an email at ahmedwal@my.yorku.ca
+</ul>
 <br>
 
 <hr>
