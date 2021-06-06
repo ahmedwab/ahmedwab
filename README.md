@@ -34,8 +34,7 @@ In my spare time, you could find me on GitHub trying to learn new technical skil
  <p align="center">
 <i><b>GitHub Stats</b></i><br>
  </p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedwab&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwab&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ahmedwab/ahmedwab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
