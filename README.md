@@ -33,9 +33,8 @@ In my spare time, you could find me on GitHub trying to learn new technical skil
 <br>
  <p align="center">
 <i><b>GitHub Stats</b></i><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
+ </p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedwab&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
