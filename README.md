@@ -34,6 +34,7 @@ In my spare time, you could find me on GitHub trying to learn new technical skil
  <p align="center">
 <i><b>GitHub Stats</b></i><br>
  </p>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwab&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
@@ -50,3 +51,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwab&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
