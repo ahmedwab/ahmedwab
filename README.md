@@ -23,7 +23,7 @@ In my spare time, you could find me on GitHub trying to learn new technical skil
 
  <ul align="left">
   <li> 🔭 I’m currently working on: Web Chat using NodeJs, Express.js, WebRTC, and Socket.io
-   <li> 🌱 I’m currently learning OpenCV, Angular.js and React.js, and SwiftUI
+   <li> 🌱 Also, OpenCV, Angular.js and React.js, and SwiftUI
    <li> 👯 I’m always down to collaborate with anyone
    <li> 📫 How to reach me: Shoot me an email at ahmedwal@my.yorku.ca
 </ul>
@@ -33,7 +33,7 @@ In my spare time, you could find me on GitHub trying to learn new technical skil
 <br>
  <p align="center">
 <i><b>GitHub Stats</b></i><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedwab&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
