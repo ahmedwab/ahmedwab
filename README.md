@@ -22,8 +22,8 @@ In my spare time, you could find me on GitHub trying to learn new technical skil
 <br>
 
  <ul align="left">
-  <li> 🔭 I’m currently working on: Web Chat using NodeJs, Express.js, WebRTC, and Socket.io
-   <li> 🌱 Also, OpenCV, Angular.js and React.js, and SwiftUI
+  <li> 🔭 Currenty, I am working on drone technology using OpenCV
+   <li> 🌱 New technologies: OpenCV, Angular.js, React.js, and SwiftUI
    <li> 👯 I’m always down to collaborate with anyone
    <li> 📫 How to reach me: Shoot me an email at ahmedwal@my.yorku.ca
 </ul>
