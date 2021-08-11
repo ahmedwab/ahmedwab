@@ -1,8 +1,6 @@
 ### Hi there 
 <h1 align="center">Hi 👋 I'm Ahmed Abdelfattah</h1>
 <hr>
-![](https://komarev.com/ghpvc/?username=ahmedwab)
-<hr>
 <h3 align="center">Software Developer | Tech Enthusiast</h3>
 <hr>
 <p align="center">
